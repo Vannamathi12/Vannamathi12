@@ -7,7 +7,7 @@
 - 🌱 Currently learning **MERN Stack, ASP.NET Core, and IoT Systems**  
 - 👯 Looking to collaborate on **Full-Stack Projects & Open Source**  
 - 💡 Passionate about building **scalable web apps** and exploring **AI/ML in healthcare**  
-- 📫 Reach me at **your_email@example.com**  
+- 📫 Reach me at **vannamathig.22msc@kongu.edu**  
 
 ---
 
